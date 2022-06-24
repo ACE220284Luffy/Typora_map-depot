@@ -1,0 +1,145 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="75ex" height="29.343ex" style="font-size: 15px; vertical-align: -3.005ex; max-width: 450;" viewBox="0 -11339.9 32291.5 12633.6" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<path stroke-width="1" id="E1-MJMAIN-2E" d="M78 60Q78 84 95 102T138 120Q162 120 180 104T199 61Q199 36 182 18T139 0T96 17T78 60Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-3E" d="M84 520Q84 528 88 533T96 539L99 540Q106 540 253 471T544 334L687 265Q694 260 694 250T687 235Q685 233 395 96L107 -40H101Q83 -38 83 -20Q83 -19 83 -17Q82 -10 98 -1Q117 9 248 71Q326 108 378 132L626 250L378 368Q90 504 86 509Q84 513 84 520Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-2212" d="M84 237T84 250T98 270H679Q694 262 694 250T679 230H98Q84 237 84 250Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-7C" d="M139 -249H137Q125 -249 119 -235V251L120 737Q130 750 139 750Q152 750 159 735V-235Q151 -249 141 -249H139Z"></path>
+<path stroke-width="1" id="E1-MJMATHI-6F" d="M201 -11Q126 -11 80 38T34 156Q34 221 64 279T146 380Q222 441 301 441Q333 441 341 440Q354 437 367 433T402 417T438 387T464 338T476 268Q476 161 390 75T201 -11ZM121 120Q121 70 147 48T206 26Q250 26 289 58T351 142Q360 163 374 216T388 308Q388 352 370 375Q346 405 306 405Q243 405 195 347Q158 303 140 230T121 120Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-2217" d="M229 286Q216 420 216 436Q216 454 240 464Q241 464 245 464T251 465Q263 464 273 456T283 436Q283 419 277 356T270 286L328 328Q384 369 389 372T399 375Q412 375 423 365T435 338Q435 325 425 315Q420 312 357 282T289 250L355 219L425 184Q434 175 434 161Q434 146 425 136T401 125Q393 125 383 131T328 171L270 213Q283 79 283 63Q283 53 276 44T250 35Q231 35 224 44T216 63Q216 80 222 143T229 213L171 171Q115 130 110 127Q106 124 100 124Q87 124 76 134T64 161Q64 166 64 169T67 175T72 181T81 188T94 195T113 204T138 215T170 230T210 250L74 315Q65 324 65 338Q65 353 74 363T98 374Q106 374 116 368T171 328L229 286Z"></path>
+</defs>
+<g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)">
+<g transform="translate(11119,0)">
+<g transform="translate(167,0)">
+<g transform="translate(389,0)">
+<g transform="translate(519,10149)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">符</text>
+<g transform="translate(1148,0)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">号</text>
+</g>
+</g>
+<g transform="translate(833,8458)">
+ <use xlink:href="#E1-MJMAIN-2E" x="0" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-2E" x="445" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-3E" x="890" y="0"></use>
+</g>
+<g transform="translate(0,6766)">
+ <use xlink:href="#E1-MJMAIN-2212" x="0" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-2212" x="1000" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-7C" x="2001" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-3E" x="2557" y="0"></use>
+</g>
+<g transform="translate(555,5074)">
+ <use xlink:href="#E1-MJMAIN-2E" x="0" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-2E" x="445" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-7C" x="890" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-3E" x="1446" y="0"></use>
+</g>
+<g transform="translate(361,3383)">
+ <use xlink:href="#E1-MJMAIN-2212" x="0" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-2212" x="778" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-3E" x="1834" y="0"></use>
+</g>
+<g transform="translate(424,1691)">
+ <use xlink:href="#E1-MJMAIN-2212" x="0" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-2212" x="1000" y="0"></use>
+ <use xlink:href="#E1-MJMATHI-6F" x="2001" y="0"></use>
+</g>
+<g transform="translate(417,-1)">
+ <use xlink:href="#E1-MJMAIN-2212" x="0" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-2212" x="1000" y="0"></use>
+ <use xlink:href="#E1-MJMAIN-2217" x="2001" y="0"></use>
+</g>
+</g>
+<line stroke-linecap="square" stroke-width="20.9" y1="10" x2="10" x1="10" y2="11861" transform="translate(4225,-646)"></line>
+<g transform="translate(4725,0)">
+<g transform="translate(1148,10149)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">释</text>
+<g transform="translate(1148,0)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">义</text>
+</g>
+</g>
+<g transform="translate(0,8458)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">依</text>
+<g transform="translate(1148,0)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">赖</text>
+</g>
+<g transform="translate(2296,0)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">关</text>
+</g>
+<g transform="translate(3444,0)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">系</text>
+</g>
+</g>
+<g transform="translate(0,6766)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">继</text>
+<g transform="translate(1148,0)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">承</text>
+</g>
+<g transform="translate(2296,0)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">关</text>
+</g>
+<g transform="translate(3444,0)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">系</text>
+</g>
+</g>
+<g transform="translate(0,5074)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">实</text>
+<g transform="translate(1148,0)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">现</text>
+</g>
+<g transform="translate(2296,0)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">关</text>
+</g>
+<g transform="translate(3444,0)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">系</text>
+</g>
+</g>
+<g transform="translate(0,3383)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">关</text>
+<g transform="translate(1148,0)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">联</text>
+</g>
+<g transform="translate(2296,0)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">关</text>
+</g>
+<g transform="translate(3444,0)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">系</text>
+</g>
+</g>
+<g transform="translate(0,1691)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">聚</text>
+<g transform="translate(1148,0)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">合</text>
+</g>
+<g transform="translate(2296,0)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">关</text>
+</g>
+<g transform="translate(3444,0)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">系</text>
+</g>
+</g>
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">组</text>
+<g transform="translate(1148,0)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">合</text>
+</g>
+<g transform="translate(2296,0)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">关</text>
+</g>
+<g transform="translate(3444,0)">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">系</text>
+</g>
+</g>
+<line stroke-linecap="square" stroke-width="20.9" y2="10" y1="10" x1="10" x2="9707" transform="translate(0,11205)"></line>
+<line stroke-linecap="square" stroke-width="20.9" y2="10" y1="10" x1="10" x2="9707" transform="translate(0,-646)"></line>
+<line stroke-linecap="square" stroke-width="20.9" y1="10" x2="10" x1="10" y2="11861" transform="translate(0,-646)"></line>
+<line stroke-linecap="square" stroke-width="20.9" y1="10" x2="10" x1="10" y2="11861" transform="translate(9697,-646)"></line>
+<line stroke-linecap="square" stroke-width="20.9" y2="10" y1="10" x1="10" x2="9707" transform="translate(0,9508)"></line>
+<line stroke-linecap="square" stroke-width="20.9" y2="10" y1="10" x1="10" x2="9707" transform="translate(0,7817)"></line>
+<line stroke-linecap="square" stroke-width="20.9" y2="10" y1="10" x1="10" x2="9707" transform="translate(0,6125)"></line>
+<line stroke-linecap="square" stroke-width="20.9" y2="10" y1="10" x1="10" x2="9707" transform="translate(0,4433)"></line>
+<line stroke-linecap="square" stroke-width="20.9" y2="10" y1="10" x1="10" x2="9707" transform="translate(0,2742)"></line>
+<line stroke-linecap="square" stroke-width="20.9" y2="10" y1="10" x1="10" x2="9707" transform="translate(0,1050)"></line>
+</g>
+</g>
+</g>
+</svg>
